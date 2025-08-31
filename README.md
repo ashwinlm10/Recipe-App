@@ -23,6 +23,6 @@ This app uses the free [TheMealDB API](https://www.themealdb.com/) to fetch and 
 ---
 
 ## 📷 Screenshots
-
+![Recipe Screenshot](recipe.png)
 
 ---
